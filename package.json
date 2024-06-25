@@ -1,0 +1,12 @@
+{
+  "name": "semester-project-1_server-side",
+  "version": "1.0.0",
+  "description": "Server side client for the semester project 1 website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Vestbo Hardeland",
+  "license": "ISC"
+}
